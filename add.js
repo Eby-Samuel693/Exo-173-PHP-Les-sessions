@@ -23,6 +23,7 @@ function change4(){
 function change5(){
     document.body.style.backgroundColor = 'black';
 }
+
 red.addEventListener('click',change1);
 blue.addEventListener('click',change2);
 yellow.addEventListener('click',change3);
